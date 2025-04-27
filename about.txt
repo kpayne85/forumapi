@@ -1,0 +1,1 @@
+This is a projext to try out making my own API for a forum.
