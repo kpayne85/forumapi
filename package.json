@@ -1,9 +1,28 @@
 {
+  "name": "forumapi",
+  "version": "1.0.0",
+  "description": "My first attempt making a forum API",
+  "homepage": "https://github.com/kpayne85/forumapi#readme",
+  "bugs": {
+    "url": "https://github.com/kpayne85/forumapi/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpayne85/forumapi.git"
+  },
+  "license": "ISC",
+  "author": "kpayne85",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "ajv": "^8.17.1",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
     "sequelize": "^6.37.7",
     "sqlite3": "^5.1.7"
-  }
+  },
+  "devDependencies": {}
 }
